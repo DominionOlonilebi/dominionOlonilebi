@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominionolonilebi" alt="dominionolonilebi" /></a> </p>
 
-<p align="left"> <a href="https://x.com/dmtechq" target="blank"><img src="https://img.shields.io/twitter/follow/ominidley?logo=twitter&style=for-the-badge" alt="ominidley" /></a> </p>
+<p align="left"> <a href="https://x.com/dmtechq" target="blank"><img src="https://img.shields.io/twitter/follow/dmtechq?logo=twitter&style=for-the-badge" alt="dmtechq" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://dmk-tech-uqvc.vercel.app/]
 
