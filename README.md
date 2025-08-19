@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominionolonilebi" alt="dominionolonilebi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ominidley" target="blank"><img src="https://img.shields.io/twitter/follow/ominidley?logo=twitter&style=for-the-badge" alt="ominidley" /></a> </p>
+<p align="left"> <a href="https://x.com/dmtechq" target="blank"><img src="https://img.shields.io/twitter/follow/ominidley?logo=twitter&style=for-the-badge" alt="ominidley" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.webdominion.tech](https://www.webdominion.tech)
+- 👨‍💻 All of my projects are available at [https://dmk-tech-uqvc.vercel.app/]
 
 - 💬 Ask me about **JavaScript, Reactjs, Nextjs, Redux toolkits, Context Api**
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ominidley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ominidley" height="30" width="40" /></a>
+<a href="https://x.com/dmtechq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ominidley" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dominion-olonilebi-3b7a6423b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dominion-olonilebi-3b7a6423b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/ominidley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ominidley" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ominidley" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
